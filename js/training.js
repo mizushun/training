@@ -11,9 +11,9 @@ $(function(){
     $(window).scroll(function(){
         if($(this).scrollTop()>100){
             content1.fadeIn();
-        }if($(this).scrollTop()>200){
+        }if($(this).scrollTop()>500){
             content2.fadeIn();
-        }if($(this).scrollTop()>300){
+        }if($(this).scrollTop()>600){
             content3.fadeIn();
             topBtn.fadeIn();
         } else {
