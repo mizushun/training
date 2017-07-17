@@ -1,0 +1,35 @@
+body{
+    height: 2000px;
+    background-color: #fffaf0;
+    font-family:arial,sans-serif;
+}
+
+#content1{
+    margin: 300px 0;
+}
+
+#content2{
+    margin: 300px 0;
+}
+
+#page-top{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size:77%;
+}
+
+#page-top a{
+    background: #666;
+    text-decoration: none;
+    color:#fff;
+    width: 100px;
+    padding:30px 0px;
+    text-align: center;
+    display: block;
+    border-radius:5px;
+}
+#page-top a:hover{
+    text-decoration:none;
+    background: #999;
+}
