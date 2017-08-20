@@ -7,6 +7,7 @@ body{
     width: 100%;
     color:#778899;
     text-decoration: none;
+    border-bottom: thin solid #e5e5e5;
 }
 
 ul{
@@ -25,6 +26,23 @@ li{
 h1{
     background-color:red;
     width: 20%;
-    font-size: 18px;
+    font-size: 24px;
     color:#636363;
+}
+
+p{
+    color: #778899;
+}
+
+#main{
+    width: 100%;
+}
+
+#contents{
+    text-align:center;
+}
+
+h2{
+    font-family: sans-serif;
+    font-size: 36px;
 }
