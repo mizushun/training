@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    height:auto;
+}
+
+.flex{
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -o-flex;
+    display: flex;
+}
+
+.contents{
+    width: 50%;
+    height: auto;
+}
+
+li{
+    display: inline;
+}
+
+img{
+    width: 100%;
+}
